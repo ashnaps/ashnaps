@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Real time working projects**
 
-- 🤝 I’m looking for help with **OCR and Big Data Analytics**
-
 - 💬 Ask me about **Student life & Engineering!**
 
 - 📫 How to reach me **psashna1984@gmail.com**
