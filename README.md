@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I'm an adventure traveller!**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashnaps&show_icons=true&locale=en" alt="ashnaps" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashnaps&show_icons=true&locale=en&layout=compact" alt="ashnaps" /></p>
 
