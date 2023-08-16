@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, Ashnaa this side!</h1>
-<h3 align="center">Tech Geek | Ardent Learner | Budding Engineer</h3>
+<h3 align="center">Tech Geek | Learner | Open Source | Web3 | Budding Engineer</h3>
 
 <br>
 
